@@ -1,0 +1,5 @@
+Flask
+websocket-client
+websockets
+requests
+python-telegram-bot==20.3
